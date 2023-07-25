@@ -6,7 +6,7 @@
 
 <h3 align="left">• Currently learning C </h3>
 <h3 align="left">• Linux enthusiast </h3>
-<h3 align="left">• Games • Anime </h3>
+<h3 align="left">• Games & Anime </h3>
 
 <h1 align="left">Some tools and languages</h1>
 
