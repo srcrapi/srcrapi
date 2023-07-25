@@ -2,7 +2,7 @@
 
 <!-- <h2 align="center"<img src="https://media.tenor.com/tFh97o66v5cAAAAC/bocchi-the-rock-hitori-gotou.gif" width="500"></h2>
 -->
-<h2 align="center"><img src="https://media.tenor.com/8s0fZPABEEUAAAAC/march-7th.gif" width="500"></h2>
+<h2 align="center"><img src="https://media.tenor.com/tFh97o66v5cAAAAC/bocchi-the-rock-hitori-gotou.gif" width="500"></h2>
 
 ## About Me
 
