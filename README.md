@@ -8,7 +8,7 @@
 <h3 align="left">• Linux enthusiast </h3>
 <h3 align="left">• Games • Anime </h3>
 
-<h2 align="left">Some tools and languages</h2>
+<h1 align="left">Some tools and languages</h1>
 
 <p align="center">
 <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" height="40"> </a> 
