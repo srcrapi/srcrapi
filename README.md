@@ -15,3 +15,5 @@
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="40" height="40"> </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"> </a>
 </p>
+<h1>Stats</h1>
+<center><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcrapi&hide=css&layout=compact&locale=en&langs_count=6&count_private=true&theme=dracula&hide_border=true"></p></center>
