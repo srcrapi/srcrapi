@@ -13,9 +13,7 @@
 <p align="center">
   
 <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" height="40"> </a> 
-  
 <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="https://wiki.installgentoo.com/images/f/f9/Arch-linux-logo.png" width="40" height="40"> </a>
-  
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40"> </a>
 </p>
 
