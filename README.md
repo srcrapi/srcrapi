@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm rap1 👋 </h1>
 
-<h2 align="center"><img src="resources/ryo_react.jpg" width="500"></h2>
+<h2 align="center"><img src="resources/ryo_react.jpg" width="700"></h2>
 
 <h1 align="left">About Me </h2>
 
