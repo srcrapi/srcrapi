@@ -11,17 +11,16 @@
 <h1 align="left">Interests</h1>
 
 <center>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="/resources/archlinux.png" width="40" height="40"> </a>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="resources/archlinux.png" width="40" height="40"> </a>
 </center>
 
 <h1 align="left">Some tools and languages</h1>
 
 <div align="center">
 <p align="center">
-  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="/resources/C_logo.png" width="40" height="40"> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="/resources/terminal.png" width="40" height="40"> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="/resources/VSCode.png" width="40" height="40"> </a>
-  <a href=""></a>
+  <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="resources/C_logo.png" width="40" height="40"> </a> 
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="resources/terminal.png" width="40" height="40"> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="resources/VSCode.png" width="40" height="40"> </a>
 </p>
 </div>
 
