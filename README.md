@@ -11,7 +11,7 @@
 <h1 align="left">Interests</h1>
 
 <center>
-  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="resources/archlinux.png" width="40" height="40"> </a>
+  <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="resources/archlinux.png" width="20%" height="20%"> </a>
 </center>
 
 <h1 align="left">Some tools and languages</h1>
