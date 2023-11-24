@@ -18,7 +18,6 @@
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="/resources/archlinux.png" alt="Arch Linux Link" width="20%" height="20%"> </a>
 </div>
 
-
 <div align="center">
   <h1 align="left">Some tools and languages</h1>
   
@@ -29,6 +28,12 @@
   </p>
 </div>
 
+<div align="center">
+    <h1 align="left">Discord</h1>
+    <a href="https://discord.com/users/535152853560328202" target="_blank" rel="noreferrer">
+        <img src="https://lanyard.cnrad.dev/api/535152853560328202" alt="Discord Presence">
+    </a>
+</div>
 
 <div>
   <h1>Stats</h1>
