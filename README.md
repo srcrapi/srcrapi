@@ -20,11 +20,17 @@
 
 <div align="center">
   <h1 align="left">Some tools and languages</h1>
-  
+
   <p>
-    <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.pinclipart.com%2Fpicdir%2Fbig%2F396-3965857_c-c-programming-language-logo-clipart.png&f=1&nofb=1&ipt=3b70851ec1bc54eff89b01647269559bbea4add1d5f13e0948665782b56421ef&ipo=images" alt="C site Link" width="50" height="50"> </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="/resources/terminal.png" alt="Linux Bash info" width="50" height="50"> </a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="Visual studio code link" width="50" height="50"> </a>
+    <a href="https://www.learn-c.org/">
+      <img src="https://skillicons.dev/icons?i=c" alt="C site Link">
+    </a>
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+      <img src="/resources/terminal.png" alt="Linux Bash info" width="50" height="50">
+    </a>
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=vscode" alt="Visual studio code link">
+    </a>
   </p>
 </div>
 
