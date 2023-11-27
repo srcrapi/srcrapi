@@ -37,7 +37,7 @@
 <div align="center">
     <h1 align="left">Discord</h1>
     <a href="https://discord.com/users/535152853560328202" target="_blank" rel="noreferrer">
-        <img src="https://lanyard.cnrad.dev/api/535152853560328202?idleMessage=Sleeping&borderRadius=30px" alt="Discord Presence">
+        <img src="https://lanyard.cnrad.dev/api/535152853560328202?idleMessage=Problably%20Sleeping...&borderRadius=30px" alt="Discord Presence">
     </a>
 </div>
 
