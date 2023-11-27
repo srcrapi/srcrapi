@@ -34,6 +34,9 @@
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=vscode" alt="Visual studio code link">
     </a>
+    <a href="https://python.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=py" alt="Visual studio code link">
+    </a>
   </p>
 </div>
 
