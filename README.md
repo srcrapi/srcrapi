@@ -1,9 +1,11 @@
+<!-- Profile -->
 <div align="center">
   <h1> Hi, I'm rap1 👋 </h1>
 
   <img src="/resources/ryo_react.jpg" alt="ryo image" width="700">
 </div>
 
+<!-- About -->
 <div align="left">
   <h1>About Me</h1>
 
@@ -12,12 +14,14 @@
   <h3>• I love animes, games and bass music </h3>
 </div>
 
+<!-- Interests -->
 <div align="center">
   <h1 align="left">Interests</h1>
   
   <a href="https://archlinux.org/" target="_blank" rel="noreferrer"> <img src="/resources/archlinux.png" alt="Arch Linux Link" width="20%" height="20%"> </a>
 </div>
 
+<!-- Tools -->
 <div align="center">
   <h1 align="left">Some tools and languages</h1>
 
@@ -40,6 +44,7 @@
   </p>
 </div>
 
+<!-- Discord -->
 <div align="center">
     <h1 align="left">Discord</h1>
     <a href="https://discord.com/users/535152853560328202" target="_blank" rel="noreferrer">
@@ -47,6 +52,7 @@
     </a>
 </div>
 
+<!-- Stats -->
 <div>
   <h1>Stats</h1>
   <p>
