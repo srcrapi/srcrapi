@@ -2,7 +2,7 @@
 <div align="center">
   <h1> Hi, I'm rap1 👋 </h1>
 
-  <img src="/resources/ryo_react.jpg" alt="ryo image" width="700">
+  <img src="/resources/ryo-surprise" alt="ryo image" width="700">
 </div>
 
 <!-- About -->
