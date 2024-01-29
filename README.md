@@ -8,7 +8,7 @@
   <!-- About -->
   <div align="left">
     <h1>About Me</h1>
-    <h3>• Currently learning C </h3>
+    <h3>• Currently learning Front-end </h3>
     <h3>• Linux enthusiast </h3>
     <h3>• I love animes, games and bass music </h3>
   </div>
