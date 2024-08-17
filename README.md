@@ -53,12 +53,17 @@
 <!-- Discord -->
 # Discord
 
-<a href="https://discord.com/users/535152853560328202" target="_blank" rel="noreferrer" align="center">
-  <img src="https://lanyard.cnrad.dev/api/535152853560328202?showDisplayName=true&idleMessage=Problably%20Sleeping...&borderRadius=30px" alt="Discord Presence">
-</a>
+<div align="center">
+  <a href="https://discord.com/users/535152853560328202" target="_blank" rel="noreferrer">
+    <img src="https://lanyard.cnrad.dev/api/535152853560328202?showDisplayName=true&idleMessage=Problably%20Sleeping...&borderRadius=30px" alt="Discord Presence">
+  </a>
+</div>
 
 <!-- Stats -->
 # Stats
 
-![Github Linguagem mais usada](https://github-readme-stats.vercel.app/api/top-langs/?username=srcrapi&hide=css&layout=compact&locale=en&langs_count=6&count_private=true&theme=dracula&hide_border=true)
-![Github Estatisticas](https://github-readme-stats.vercel.app/api?username=srcrapi&show_icons=true&theme=dracula&count_private=true)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srcrapi&hide=css&layout=compact&locale=en&langs_count=6&count_private=true&theme=dracula&hide_border=true" alt="Github Linguagem mais usada" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=srcrapi&show_icons=true&theme=dracula&count_private=true" alt="Github Estatisticas" />
+</div>
