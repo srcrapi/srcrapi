@@ -23,6 +23,9 @@
     <a href="https://archlinux.org/" target="_blank">
       <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/arch.png" alt="arch linux logo" width="50" height="50">
     </a>
+    <a href="https://nixos.org/" target="_blank">
+      <img src="/resources/nixos.png" alt="nixos logo" width="50" height="50">
+    </a>
     <a href="https://neovim.io/" target="_blank">
       <img src="https://skillicons.dev/icons?i=neovim" alt="Neovim" width="50" height="50">
     </a>
