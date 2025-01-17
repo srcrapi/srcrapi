@@ -48,7 +48,13 @@
         <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/code.png" alt="Visual studio code link" width="50" height="50">
       </a>
       <a href="https://python.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="Visual studio code link" width="50" height="50">
+        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/python.png" alt="Python link" width="50" height="50">
+      </a>
+      <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/javascript.png" alt=Javascript link" width="50" height="50">
+      </a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/typescript.png" alt="Typescript link" width="50" height="50">
       </a>
     </p>
 </div>
