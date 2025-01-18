@@ -1,9 +1,6 @@
 <div align="center">
   <!-- Profile -->
-  <div>
-    <h1> Hi, I'm rap1 👋 </h1>
-    <img src="/resources/ryo-surprise.gif" alt="ryo image" width="700">
-  </div>
+  <h1> Hi, I'm rap1 👋 </h1>
 </div>
 
 <!-- About -->
