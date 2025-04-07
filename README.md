@@ -76,5 +76,3 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=srcrapi&show_icons=true&theme=dracula&count_private=true" alt="Github Estatisticas" />
 </div>
-
-![:srcrapi](https://count.getloli.com/get/@srcrapi?theme=asoul)
