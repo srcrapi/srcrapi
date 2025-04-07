@@ -35,6 +35,9 @@
       <a href="https://www.learn-c.org/">
         <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/c.png" alt="C site link" width="50" height="50">
       </a>
+      <a href="https://www.rust-lang.org/">
+        <img src="https://skillicons.dev/icons?i=rust alt="C site link" width="50" height="50">
+      </a>
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/terminal.png" alt="bash link site" width="50" height="50">
       </a>
